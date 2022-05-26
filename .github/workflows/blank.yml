@@ -1,0 +1,17 @@
+name: Deployment
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v3
+      - name: Update resource pack
+        run: 'curl https://r2-test.929f9b4b.workers.dev/rp-gc-${{ github.ref_name }}.zip -X PUT --header "X-Super-Secret: ${{ secrets.R2_SECRET }}" --data-binary "@./pack.zip"'
