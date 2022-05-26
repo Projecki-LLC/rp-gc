@@ -1,0 +1,14 @@
+{
+	"credit": "Made by Jeqo - https://jeqostudios.com",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "custom/ui/survival_infinity/racket/prestige4"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 8, 0],
+			"scale": [1, 2, 1]
+		}
+	}
+}

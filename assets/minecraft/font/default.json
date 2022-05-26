@@ -1,0 +1,193 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom/ui/gacland_logo.png",
+            "ascent": 2,
+            "height": 100,
+            "chars": [
+                "╥"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/generic_collection_menu.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/barter/auction_menu_browse.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/barter/auction_menu_confirm.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/barter/auction_menu_expired.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/emporium/chestshop_1.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/emporium/chestshop_2.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "╪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/metropolis/management_menu.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "┘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/metropolis/management_menu_2.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "┌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/quest_board/quest_menu.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "█"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/jobs_info.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "▄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/jobs_main.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "▌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/jobs_prestige_menu.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "▐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/jobs_your_jobs.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "▀"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/breakout/badge-guard.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "α"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/breakout/badge-prisoner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "ß"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/breakout/icon-guard.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "Γ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/breakout/icon-prisoner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "π"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/timer_bg.png",
+            "ascent": 27,
+            "height": 27,
+            "chars": [
+                "Σ","σ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/timer_numbers.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "","","","\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "╚"
+            ]
+        }
+    ]
+}
