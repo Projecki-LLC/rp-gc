@@ -108,7 +108,7 @@
           {"predicate":{"custom_model_data":10004},"model":"custom/cosmetics/backpacks/static_wings/demon_wings_static"},
           {"predicate":{"custom_model_data":10005},"model":"custom/cosmetics/backpacks/static_wings/dragon_wings_static"},
           {"predicate":{"custom_model_data":10006},"model":"custom/cosmetics/backpacks/static_wings/fairy_wings_static"},
-          {"predicate":{"custom_model_data":10007},"model":"custom/cosmetics/backpacks/adventures_pack"},
+          {"predicate":{"custom_model_data":10007},"model":"custom/cosmetics/backpacks/adventurers_pack"},
           {"predicate":{"custom_model_data":10008},"model":"custom/cosmetics/backpacks/angel_wings"},
           {"predicate":{"custom_model_data":10009},"model":"custom/cosmetics/backpacks/astronaut_backpack"},
           {"predicate":{"custom_model_data":10010},"model":"custom/cosmetics/backpacks/baseball_bag"},
