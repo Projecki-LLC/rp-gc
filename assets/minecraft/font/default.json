@@ -182,6 +182,33 @@
         },
         {
             "type": "bitmap",
+            "file": "custom/ui/tags/click_me.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "ⁿ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/tags/npc.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "→"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/gridcraft_logo.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "custom/ui/space_split.png",
             "ascent": -32768,
             "height": -4,
