@@ -215,6 +215,15 @@
             "chars": [
                 "╚"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/GACguide.png",
+            "ascent": 8,
+            "height": 64,
+            "chars": [
+                "Æ"
+            ]
         }
     ]
 }
