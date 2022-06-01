@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/paper"
     },
       "overrides": [
+          {"predicate":{"custom_model_data":0},"model":"custom/misc_items/air"},
           {"predicate":{"custom_model_data":1},"model":"custom/minigames/battlebox/blue_flag"},
           {"predicate":{"custom_model_data":2},"model":"custom/minigames/battlebox/cyan_flag"},
           {"predicate":{"custom_model_data":3},"model":"custom/minigames/battlebox/green_flag"},
