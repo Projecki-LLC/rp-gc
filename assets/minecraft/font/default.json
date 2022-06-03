@@ -48,7 +48,7 @@
         {
             "type": "bitmap",
             "file": "custom/ui/survival_infinity/emporium/chestshop_1.png",
-            "ascent": 8,
+            "ascent": 13,
             "height": 224,
             "chars": [
                 "╫"
@@ -57,7 +57,7 @@
         {
             "type": "bitmap",
             "file": "custom/ui/survival_infinity/emporium/chestshop_2.png",
-            "ascent": 8,
+            "ascent": 13,
             "height": 224,
             "chars": [
                 "╪"

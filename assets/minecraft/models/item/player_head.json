@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "override": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/misc_items/player_head.json"
+    }
+  ]
+}
