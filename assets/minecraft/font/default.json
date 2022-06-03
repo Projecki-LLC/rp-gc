@@ -128,6 +128,24 @@
         },
         {
             "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/level_progress.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "♂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/survival_infinity/racket/skills_menu.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "♦"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "custom/ui/breakout/badge-guard.png",
             "ascent": 8,
             "height": 9,
@@ -201,10 +219,10 @@
         {
             "type": "bitmap",
             "file": "custom/ui/gridcraft_logo.png",
-            "ascent": 7,
-            "height": 7,
+            "ascent": 0,
+            "height": 25,
             "chars": [
-                ""
+                "°"
             ]
         },
         {
@@ -223,6 +241,15 @@
             "height": 64,
             "chars": [
                 "Æ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom/ui/skull.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "ö"
             ]
         }
     ]
