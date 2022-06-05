@@ -1,832 +1,96 @@
 {
     "providers": [
-        {
-            "type": "bitmap",
-            "file": "custom/ui/gacland_logo.png",
-            "ascent": 2,
-            "height": 100,
-            "chars": [
-                "╥"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/generic_collection_menu.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "╙"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/barter/auction_menu_browse.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "╘"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/barter/auction_menu_confirm.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "╒"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/barter/auction_menu_expired.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "╓"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/emporium/chestshop_1.png",
-            "ascent": 13,
-            "height": 224,
-            "chars": [
-                "╫"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/emporium/chestshop_2.png",
-            "ascent": 13,
-            "height": 224,
-            "chars": [
-                "╪"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/metropolis/management_menu.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "┘"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/metropolis/management_menu_2.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "┌"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/quest_board/quest_menu.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "█"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/jobs_info.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "▄"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/jobs_main.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "▌"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/jobs_prestige_menu.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "▐"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/jobs_your_jobs.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "▀"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/level_progress.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "♂"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/survival_infinity/racket/skills_menu.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "♦"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/breakout/badge-guard.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "α"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/breakout/badge-prisoner.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "ß"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/breakout/icon-guard.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "Γ"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/breakout/icon-prisoner.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "π"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/timer_bg.png",
-            "ascent": 27,
-            "height": 27,
-            "chars": [
-                "Σ","σ"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/timer_numbers.png",
-            "ascent": 15,
-            "height": 15,
-            "chars": [
-                "","","","\u0000"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/tags/click_me.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": [
-                "ⁿ"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/tags/npc.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": [
-                "→"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/gridcraft_logo.png",
-            "ascent": 0,
-            "height": 25,
-            "chars": [
-                "°"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/space_split.png",
-            "ascent": -32768,
-            "height": -4,
-            "chars": [
-                "╚"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/GACguide.png",
-            "ascent": 8,
-            "height": 64,
-            "chars": [
-                "\uE800"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "custom/ui/skull.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": [
-                "ö"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -3,
-            "chars": [
-                "\uF801"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -4,
-            "chars": [
-                "\uF802"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -5,
-            "chars": [
-                "\uF803"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -6,
-            "chars": [
-                "\uF804"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -7,
-            "chars": [
-                "\uF805"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -8,
-            "chars": [
-                "\uF806"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -9,
-            "chars": [
-                "\uF807"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -10,
-            "chars": [
-                "\uF808"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -18,
-            "chars": [
-                "\uF809"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -34,
-            "chars": [
-                "\uF80A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -66,
-            "chars": [
-                "\uF80B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -130,
-            "chars": [
-                "\uF80C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -258,
-            "chars": [
-                "\uF80D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -514,
-            "chars": [
-                "\uF80E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -1026,
-            "chars": [
-                "\uF80F"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -65536,
-            "height": -32770,
-            "chars": [
-                "\uF800"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 0,
-            "chars": [
-                "\uF821"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 1,
-            "chars": [
-                "\uF822"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 2,
-            "chars": [
-                "\uF823"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 3,
-            "chars": [
-                "\uF824"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 4,
-            "chars": [
-                "\uF825"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 5,
-            "chars": [
-                "\uF826"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 6,
-            "chars": [
-                "\uF827"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 7,
-            "chars": [
-                "\uF828"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 15,
-            "chars": [
-                "\uF829"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 31,
-            "chars": [
-                "\uF82A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 63,
-            "chars": [
-                "\uF82B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 127,
-            "chars": [
-                "\uF82C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 255,
-            "chars": [
-                "\uF82D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 511,
-            "chars": [
-                "\uF82E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 1023,
-            "chars": [
-                "\uF82F"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -65536,
-            "height": 32767,
-            "chars": [
-                "\uF820"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -3,
-            "chars": [
-                "\uF811"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -4,
-            "chars": [
-                "\uF812"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -5,
-            "chars": [
-                "\uF813"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -6,
-            "chars": [
-                "\uF814"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -7,
-            "chars": [
-                "\uF815"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -8,
-            "chars": [
-                "\uF816"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -9,
-            "chars": [
-                "\uF817"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -10,
-            "chars": [
-                "\uF818"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -18,
-            "chars": [
-                "\uF819"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -34,
-            "chars": [
-                "\uF81A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -66,
-            "chars": [
-                "\uF81B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -130,
-            "chars": [
-                "\uF81C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -258,
-            "chars": [
-                "\uF81D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -514,
-            "chars": [
-                "\uF81E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": -1026,
-            "chars": [
-                "\uF81F"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -65536,
-            "height": -32770,
-            "chars": [
-                "\uF810"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 0,
-            "chars": [
-                "\uF831"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 1,
-            "chars": [
-                "\uF832"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 2,
-            "chars": [
-                "\uF833"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 3,
-            "chars": [
-                "\uF834"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 4,
-            "chars": [
-                "\uF835"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 5,
-            "chars": [
-                "\uF836"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 6,
-            "chars": [
-                "\uF837"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 7,
-            "chars": [
-                "\uF838"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 15,
-            "chars": [
-                "\uF839"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 31,
-            "chars": [
-                "\uF83A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 63,
-            "chars": [
-                "\uF83B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 127,
-            "chars": [
-                "\uF83C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 255,
-            "chars": [
-                "\uF83D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 511,
-            "chars": [
-                "\uF83E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -32768,
-            "height": 1023,
-            "chars": [
-                "\uF83F"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_nosplit.png",
-            "ascent": -65536,
-            "height": 32767,
-            "chars": [
-                "\uF830"
-            ]
-        }
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -3,"chars": ["\uF801"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -4,"chars": ["\uF802"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -5,"chars": ["\uF803"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -6,"chars": ["\uF804"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -7,"chars": ["\uF805"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -8,"chars": ["\uF806"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -9,"chars": ["\uF807"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -10,"chars": ["\uF808"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -18,"chars": ["\uF809"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -34,"chars": ["\uF80A"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -66,"chars": ["\uF80B"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -130,"chars": ["\uF80C"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -258,"chars": ["\uF80D"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -514,"chars": ["\uF80E"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": -1026,"chars": ["\uF80F"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -65536,"height": -32770,"chars": ["\uF800"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 0,"chars": ["\uF821"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 1,"chars": ["\uF822"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 2,"chars": ["\uF823"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 3,"chars": ["\uF824"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 4,"chars": ["\uF825"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 5,"chars": ["\uF826"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 6,"chars": ["\uF827"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 7,"chars": ["\uF828"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 15,"chars": ["\uF829"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 31,"chars": ["\uF82A"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 63,"chars": ["\uF82B"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 127,"chars": ["\uF82C"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 255,"chars": ["\uF82D"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 511,"chars": ["\uF82E"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -32768,"height": 1023,"chars": ["\uF82F"]},
+        {"type": "bitmap","file": "space:font/space_split.png","ascent": -65536,"height": 32767,"chars": ["\uF820"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -3,"chars": ["\uF811"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -4,"chars": ["\uF812"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -5,"chars": ["\uF813"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -6,"chars": ["\uF814"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -7,"chars": ["\uF815"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -8,"chars": ["\uF816"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -9,"chars": ["\uF817"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -10,"chars": ["\uF818"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -18,"chars": ["\uF819"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -34,"chars": ["\uF81A"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -66,"chars": ["\uF81B"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -130,"chars": ["\uF81C"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -258,"chars": ["\uF81D"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -514,"chars": ["\uF81E"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": -1026,"chars": ["\uF81F"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -65536,"height": -32770,"chars": ["\uF810"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 0,"chars": ["\uF831"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 1,"chars": ["\uF832"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 2,"chars": ["\uF833"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 3,"chars": ["\uF834"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 4,"chars": ["\uF835"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 5,"chars": ["\uF836"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 6,"chars": ["\uF837"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 7,"chars": ["\uF838"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 15,"chars": ["\uF839"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 31,"chars": ["\uF83A"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 63,"chars": ["\uF83B"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 127,"chars": ["\uF83C"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 255,"chars": ["\uF83D"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 511,"chars": ["\uF83E"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 1023,"chars": ["\uF83F"]},
+        {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -65536,"height": 32767,"chars": ["\uF830"]},
+        {"type": "bitmap","file": "custom/ui/gacland_logo.png","ascent": 2,"height": 100,"chars": ["╥"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/generic_collection_menu.png","ascent": 13,"height": 256,"chars": ["╙"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/barter/auction_menu_browse.png","ascent": 13,"height": 256,"chars": ["╘"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/barter/auction_menu_confirm.png","ascent": 13,"height": 256,"chars": ["╒"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/barter/auction_menu_expired.png","ascent": 13,"height": 256,"chars": ["╓"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/emporium/chestshop_1.png","ascent": 13,"height": 224,"chars": ["╫"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/emporium/chestshop_2.png","ascent": 13,"height": 224,"chars": ["╪"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/metropolis/management_menu.png","ascent": 13,"height": 256,"chars": ["┘"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/metropolis/management_menu_2.png","ascent": 13,"height": 256,"chars": ["┌"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/quest_board/quest_menu.png","ascent": 13,"height": 256,"chars": ["█"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_info.png","ascent": 13,"height": 256,"chars": ["▄"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_main.png","ascent": 13,"height": 256,"chars": ["▌"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_prestige_menu.png","ascent": 13,"height": 256,"chars": ["▐"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_your_jobs.png","ascent": 13,"height": 256,"chars": ["▀"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/level_progress.png","ascent": 13,"height": 256,"chars": ["♂"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/skills_menu.png","ascent": 13,"height": 256,"chars": ["♦"]},
+        {"type": "bitmap","file": "custom/ui/breakout/badge-guard.png","ascent": 8,"height": 9,"chars": ["α"]},
+        {"type": "bitmap","file": "custom/ui/breakout/badge-prisoner.png","ascent": 8,"height": 9,"chars": ["ß"]},
+        {"type": "bitmap","file": "custom/ui/breakout/icon-guard.png","ascent": 8,"height": 9,"chars": ["Γ"]},
+        {"type": "bitmap","file": "custom/ui/breakout/icon-prisoner.png","ascent": 8,"height": 9,"chars": ["π"]},
+        {"type": "bitmap","file": "custom/ui/timer_bg.png","ascent": 27,"height": 27,"chars": ["Σ","σ"]},
+        {"type": "bitmap","file": "custom/ui/timer_numbers.png","ascent": 15,"height": 15,"chars": ["","","","\u0000"]},
+        {"type": "bitmap","file": "custom/ui/tags/click_me.png","ascent": 7,"height": 7,"chars": ["ⁿ"]},
+        {"type": "bitmap","file": "custom/ui/tags/npc.png","ascent": 7,"height": 7,"chars": ["→"]},
+        {"type": "bitmap","file": "custom/ui/gridcraft_logo.png","ascent": 0,"height": 25,"chars": ["°"]},
+        {"type": "bitmap","file": "custom/ui/space_split.png","ascent": -32768,"height": -4,"chars": ["╚"]},
+        {"type": "bitmap","file": "custom/ui/GACguide.png","ascent": 8,"height": 64,"chars": ["\uE800"]},
+        {"type": "bitmap","file": "custom/ui/skull.png","ascent": 16,"height": 16,"chars": ["ö"]}
     ]
 }

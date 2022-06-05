@@ -2,6 +2,6 @@
   "container.inventory": "",
   "menu.disconnect": "§bPlease Don't Go!",
   "menu.returnToGame": "§bReturn to Gridcraft",
-  "multiplayer.downloadingTerrain": "°",
+  "menu.game": "°",
   "menu.shareToLan": "/discord"
 }
