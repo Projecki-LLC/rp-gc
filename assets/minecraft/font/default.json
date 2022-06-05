@@ -79,7 +79,7 @@
         {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_prestige_menu.png","ascent": 13,"height": 256,"chars": ["▐"]},
         {"type": "bitmap","file": "custom/ui/survival_infinity/racket/jobs_your_jobs.png","ascent": 13,"height": 256,"chars": ["▀"]},
         {"type": "bitmap","file": "custom/ui/survival_infinity/racket/level_progress.png","ascent": 13,"height": 256,"chars": ["♂"]},
-        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/skills_menu.png","ascent": 13,"height": 256,"chars": ["♦"]},
+        {"type": "bitmap","file": "custom/ui/survival_infinity/racket/skills_menu.png","ascent": 13,"height": 256,"chars": ["Ü"]},
         {"type": "bitmap","file": "custom/ui/breakout/badge-guard.png","ascent": 8,"height": 9,"chars": ["α"]},
         {"type": "bitmap","file": "custom/ui/breakout/badge-prisoner.png","ascent": 8,"height": 9,"chars": ["ß"]},
         {"type": "bitmap","file": "custom/ui/breakout/icon-guard.png","ascent": 8,"height": 9,"chars": ["Γ"]},
