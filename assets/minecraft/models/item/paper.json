@@ -125,6 +125,7 @@
           {"predicate":{"custom_model_data":119},"model":"custom/ui/survival_infinity/racket/toggle_exp"},
           {"predicate":{"custom_model_data":120},"model":"custom/ui/survival_infinity/racket/toggle_mute"},
           {"predicate":{"custom_model_data":121},"model":"custom/ui/survival_infinity/racket/toggle_particles"},
+          {"predicate":{"custom_model_data":122},"model":"custom/misc_blocks/quest_board"},
           {"predicate":{"custom_model_data":10001},"model":"custom/cosmetics/backpacks/static_wings/angel_wings_static"},
           {"predicate":{"custom_model_data":10002},"model":"custom/cosmetics/backpacks/static_wings/black_angel_wings_static"},
           {"predicate":{"custom_model_data":10003},"model":"custom/cosmetics/backpacks/static_wings/butterfly_wings_static"},
