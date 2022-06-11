@@ -127,6 +127,8 @@
           {"predicate":{"custom_model_data":121},"model":"custom/ui/survival_infinity/racket/toggle_particles"},
           {"predicate":{"custom_model_data":122},"model":"custom/misc_blocks/quest_board"},
           {"predicate":{"custom_model_data":123},"model":"custom/misc_blocks/paintings/painting_ape_1"},
+          {"predicate":{"custom_model_data":124},"model":"custom/misc_blocks/paintings/painting_llama_1"},
+          {"predicate":{"custom_model_data":125},"model":"custom/misc_blocks/paintings/painting_xolo_1"},
           {"predicate":{"custom_model_data":10001},"model":"custom/cosmetics/backpacks/static_wings/angel_wings_static"},
           {"predicate":{"custom_model_data":10002},"model":"custom/cosmetics/backpacks/static_wings/black_angel_wings_static"},
           {"predicate":{"custom_model_data":10003},"model":"custom/cosmetics/backpacks/static_wings/butterfly_wings_static"},
