@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "custom/misc_blocks/paintings/painting_ape_1",
-		"particle": "custom/misc_blocks/paintings/painting_ape_1"
+		"0": "custom/misc_blocks/paintings/painting_llama_1",
+		"particle": "custom/misc_blocks/paintings/painting_llama_1"
 	},
 	"elements": [
 		{
