@@ -64,7 +64,7 @@
         {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 511,"chars": ["\uF83E"]},
         {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -32768,"height": 1023,"chars": ["\uF83F"]},
         {"type": "bitmap","file": "space:font/space_nosplit.png","ascent": -65536,"height": 32767,"chars": ["\uF830"]},
-        {"type": "bitmap","file": "custom/ui/gacland_logo.png","ascent": 2,"height": 100,"chars": ["╥"]},
+        {"type": "bitmap","file": "custom/ui/gacland_logo.png","ascent": 2,"height": 50,"chars": ["╥"]},
         {"type": "bitmap","file": "custom/ui/survival_infinity/generic_collection_menu.png","ascent": 13,"height": 256,"chars": ["╙"]},
         {"type": "bitmap","file": "custom/ui/survival_infinity/barter/auction_menu_browse.png","ascent": 13,"height": 256,"chars": ["╘"]},
         {"type": "bitmap","file": "custom/ui/survival_infinity/barter/auction_menu_confirm.png","ascent": 13,"height": 256,"chars": ["╒"]},
