@@ -59,6 +59,11 @@
 		"head": {
 			"rotation": [14, 0, 0],
 			"translation": [0, 11, 1.75]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -19],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	}
 }

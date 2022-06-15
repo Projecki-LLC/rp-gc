@@ -129,6 +129,13 @@
           {"predicate":{"custom_model_data":123},"model":"custom/misc_blocks/paintings/painting_ape_1"},
           {"predicate":{"custom_model_data":124},"model":"custom/misc_blocks/paintings/painting_llama_1"},
           {"predicate":{"custom_model_data":125},"model":"custom/misc_blocks/paintings/painting_xolo_1"},
+          {"predicate":{"custom_model_data":126},"model":"custom/misc_blocks/paintings/painting_squishy_1"},
+          {"predicate":{"custom_model_data":127},"model":"custom/misc_blocks/paintings/painting_ape_2"},
+          {"predicate":{"custom_model_data":128},"model":"custom/misc_blocks/paintings/painting_goober_1"},
+          {"predicate":{"custom_model_data":129},"model":"custom/misc_blocks/paintings/painting_xolo_2"},
+          {"predicate":{"custom_model_data":130},"model":"custom/misc_blocks/paintings/painting_grid_1"},
+          {"predicate":{"custom_model_data":131},"model":"custom/misc_blocks/mannequin"},
+          {"predicate":{"custom_model_data":132},"model":"custom/misc_blocks/mannequin_bust"},
           {"predicate":{"custom_model_data":10001},"model":"custom/cosmetics/backpacks/static_wings/angel_wings_static"},
           {"predicate":{"custom_model_data":10002},"model":"custom/cosmetics/backpacks/static_wings/black_angel_wings_static"},
           {"predicate":{"custom_model_data":10003},"model":"custom/cosmetics/backpacks/static_wings/butterfly_wings_static"},
@@ -233,6 +240,7 @@
           {"predicate":{"custom_model_data":10102},"model":"custom/cosmetics/hats/two_bow"},
           {"predicate":{"custom_model_data":10103},"model":"custom/cosmetics/hats/unicorn_head"},
           {"predicate":{"custom_model_data":10104},"model":"custom/cosmetics/hats/ushanka"},
-          {"predicate":{"custom_model_data":10105},"model":"custom/cosmetics/hats/viking_helmet"}
+          {"predicate":{"custom_model_data":10105},"model":"custom/cosmetics/hats/viking_helmet"},
+          {"predicate":{"custom_model_data":10106},"model":"custom/cosmetics/hats/tool_belt"}
         ]
       }
