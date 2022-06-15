@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "shooter:guns/halo",
-		"particle": "shooter:guns/halo"
+		"0": "custom/cosmetics/hats/halo",
+		"particle": "custom/cosmetics/hats/halo"
 	},
 	"elements": [
 		{
