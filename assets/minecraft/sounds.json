@@ -1,2 +1,2 @@
-{ "custom.techno": { "category": "ambient", "sounds": [ "custom/techno" ] },
-"custom.jazz": { "category": "ambient", "sounds": [ "custom/jazz" ] } }
+{ "custom.techno": { "category": "jukebox", "sounds": [ "custom/techno" ] },
+"custom.jazz": { "category": "jukebox", "sounds": [ "custom/jazz" ] } }
