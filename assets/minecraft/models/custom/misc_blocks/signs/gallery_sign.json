@@ -981,8 +981,8 @@
 		},
 		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 0, -33.5],
-			"scale": [2, 2, 2]
+			"translation": [-16, 0, -49.5],
+			"scale": [3, 3, 3]
 		}
 	}
 }
