@@ -90,7 +90,7 @@
         {"type": "bitmap","file": "custom/ui/tags/npc.png","ascent": 7,"height": 7,"chars": ["→"]},
         {"type": "bitmap","file": "custom/ui/gridcraft_logo.png","ascent": 0,"height": 25,"chars": ["°"]},
         {"type": "bitmap","file": "custom/ui/GACguide.png","ascent": 8,"height": 64,"chars": ["\uE800"]},
-        {"type": "bitmap","file": "custom/ui/icons/skull.png","ascent": 16,"height": 16,"chars": ["ö"]},
+        {"type": "bitmap","file": "custom/ui/icons/skull.png","ascent": 7,"height": 7,"chars": ["\uE801"]},
         {"type": "bitmap","file": "custom/ui/team_titles.png","ascent": 8,"height": 9,"chars": ["\uE110","\uE111","\uE112","\uE113","\uE114","\uE115","\uE116","\uE117","\uE118","\uE119","\uE120","\uE121","\uE122","\uE123"]},
         {"type": "bitmap","file": "custom/ui/icons/team_icons.png","ascent": 8,"height": 9,"chars": ["\uE124\uE125\uE126\uE127\uE128","\uE129\uE130\uE131\uE132\uE133","\uE134\uE135\uE136\uE137\uE138"]},
         {"type": "bitmap","file": "custom/ui/arcade/3.png","ascent": 15,"height": 30,"chars": ["\uE147"]},
@@ -103,6 +103,11 @@
         {"type": "bitmap","file": "custom/ui/cosmetics/mccosmetics_emotes.png","ascent": 13,"height": 256,"chars": ["\uE204"]},
         {"type": "bitmap","file": "custom/ui/cosmetics/mccosmetics_offhand.png","ascent": 13,"height": 256,"chars": ["\uE205"]},
         {"type": "bitmap","file": "custom/ui/cosmetics/mccosmetics_sprays.png","ascent": 13,"height": 256,"chars": ["\uE206"]},
-        {"type": "bitmap","file": "custom/ui/cosmetics/mccosmetics_hats.png","ascent": 13,"height": 256,"chars": ["\uE207"]}
+        {"type": "bitmap","file": "custom/ui/cosmetics/mccosmetics_hats.png","ascent": 13,"height": 256,"chars": ["\uE207"]},
+        {"type": "bitmap","file": "custom/ui/icons/coin_xp.png","ascent": 7,"height": 7,"chars": ["\uE209"]},
+        {"type": "bitmap","file": "custom/ui/icons/coin_silver.png","ascent": 7,"height": 7,"chars": ["\uE210"]},
+        {"type": "bitmap","file": "custom/ui/icons/twitter.png","ascent": 7,"height": 7,"chars": ["\uE211"]},
+        {"type": "bitmap","file": "custom/ui/icons/discord.png","ascent": 7,"height": 7,"chars": ["\uE212"]},
+        {"type": "bitmap","file": "custom/ui/icons/network.png","ascent": 7,"height": 7,"chars": ["\uE213"]}
     ]
 }
