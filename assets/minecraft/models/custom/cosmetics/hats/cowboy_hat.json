@@ -96,7 +96,8 @@
 		},
 		"head": {
 			"rotation": [10, 0, 0],
-			"translation": [0, 12.5, 1]
+			"translation": [0, 12, 1.75],
+			"scale": [1.3, 1.3, 1.3]
 		}
 	}
 }

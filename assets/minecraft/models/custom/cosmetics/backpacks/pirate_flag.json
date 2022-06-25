@@ -83,7 +83,7 @@
 		},
 		"head": {
 			"rotation": [0, 0, -34],
-			"translation": [2, -13, 3.75]
+			"translation": [2, -45, 3.75]
 		},
 		"fixed": {
 			"rotation": [-90, 0, -29],

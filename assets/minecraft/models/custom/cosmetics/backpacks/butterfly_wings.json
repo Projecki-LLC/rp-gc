@@ -107,7 +107,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
-			"translation": [0, -11, 8.5]
+			"translation": [0, -45, 9]
 		}
 	}
 }
