@@ -1,0 +1,28 @@
+{
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "custom/ui/arcade/wagers",
+		"particle": "custom/ui/arcade/wagers"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 8],
+			"to": [24, 16, 8],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [1.6, 0, 0, 0.8], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [-8.96, 0, 0]
+		}
+	}
+}

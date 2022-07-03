@@ -1,0 +1,29 @@
+{
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "custom/ui/arcade/wager_frame",
+		"particle": "custom/ui/arcade/wager_frame"
+	},
+	"elements": [
+		{
+			"from": [-9, 0, 8],
+			"to": [25, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 11.33333, 5.33333], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [8.98, -0.09, 0]
+		}
+	}
+}

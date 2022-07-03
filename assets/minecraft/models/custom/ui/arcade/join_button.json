@@ -1,0 +1,29 @@
+{
+	"texture_size": [80, 32],
+	"textures": {
+		"0": "custom/ui/arcade/join_button",
+		"particle": "custom/ui/arcade/join_button"
+	},
+	"elements": [
+		{
+			"from": [-10, 0, 8],
+			"to": [26, 9.5, 8],
+			"faces": {
+				"north": {"uv": [0.8, 3, 15.2, 12.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [15.2, 3, 0.8, 12.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [9.1, 6, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "custom/ui/arcade/your_turn_text",
+		"particle": "custom/ui/arcade/your_turn_text"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 8],
+			"to": [24, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 32], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 32], "texture": "#missing"},
+				"up": {"uv": [0, 0, 64, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 64, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}
