@@ -120,6 +120,7 @@
         {"type": "bitmap","file": "custom/ui/tags/common.png","ascent": 7,"height": 7,"chars": ["\uE214"]},
         {"type": "bitmap","file": "custom/ui/tags/rare.png","ascent": 7,"height": 7,"chars": ["\uE215"]},
         {"type": "bitmap","file": "custom/ui/tags/epic.png","ascent": 7,"height": 7,"chars": ["\uE216"]},
-        {"type": "bitmap","file": "custom/ui/tags/legendary.png","ascent": 7,"height": 7,"chars": ["\uE217"]}
+        {"type": "bitmap","file": "custom/ui/tags/legendary.png","ascent": 7,"height": 7,"chars": ["\uE217"]},
+        {"type": "bitmap","file": "custom/ui/beds.png","ascent": 7,"height": 7,"chars": ["\uE218\uE219\uE220","\uE221\uE222\uE223","\uE224\uE225\uE226"]}
     ]
 }
