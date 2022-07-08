@@ -116,6 +116,10 @@
         {"type": "bitmap","file": "custom/ui/icons/coin_silver.png","ascent": 7,"height": 7,"chars": ["\uE210"]},
         {"type": "bitmap","file": "custom/ui/icons/twitter.png","ascent": 7,"height": 7,"chars": ["\uE211"]},
         {"type": "bitmap","file": "custom/ui/icons/discord.png","ascent": 7,"height": 7,"chars": ["\uE212"]},
-        {"type": "bitmap","file": "custom/ui/icons/network.png","ascent": 7,"height": 7,"chars": ["\uE213"]}
+        {"type": "bitmap","file": "custom/ui/icons/network.png","ascent": 7,"height": 7,"chars": ["\uE213"]},
+        {"type": "bitmap","file": "custom/ui/tags/common.png","ascent": 7,"height": 7,"chars": ["\uE214"]},
+        {"type": "bitmap","file": "custom/ui/tags/rare.png","ascent": 7,"height": 7,"chars": ["\uE215"]},
+        {"type": "bitmap","file": "custom/ui/tags/epic.png","ascent": 7,"height": 7,"chars": ["\uE216"]},
+        {"type": "bitmap","file": "custom/ui/tags/legendary.png","ascent": 7,"height": 7,"chars": ["\uE217"]}
     ]
 }
