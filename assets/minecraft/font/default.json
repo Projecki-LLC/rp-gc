@@ -90,6 +90,7 @@
         {"type": "bitmap","file": "custom/ui/tags/click_me.png","ascent": 7,"height": 7,"chars": ["ⁿ"]},
         {"type": "bitmap","file": "custom/ui/tags/npc.png","ascent": 7,"height": 7,"chars": ["→"]},
         {"type": "bitmap","file": "custom/ui/gridcraft_logo.png","ascent": 0,"height": 25,"chars": ["°"]},
+        {"type": "bitmap","file": "custom/ui/gridcraft_logo.png","ascent": 25,"height": 25,"chars": ["\uE799"]},
         {"type": "bitmap","file": "custom/ui/gac_guide.png","ascent": 8,"height": 64,"chars": ["\uE800"]},
         {"type": "bitmap","file": "custom/ui/icons/skull.png","ascent": 7,"height": 7,"chars": ["\uE801"]},
         {"type": "bitmap","file": "custom/ui/team_titles.png","ascent": 8,"height": 9,"chars": ["\uE110","\uE111","\uE112","\uE113","\uE114","\uE115","\uE116","\uE117","\uE118","\uE119","\uE120","\uE121","\uE122","\uE123"]},
