@@ -10,5 +10,83 @@
       "sounds": [
         "custom/jazz"
       ]
+    },
+    "custom.achievement": {
+      "category": "master",
+      "sounds": [
+        "custom/achievement"
+      ]
+    },
+    "custom.chestloop": {
+      "category": "master",
+      "sounds": [
+        "custom/chestloop"
+      ]
+    },
+    "custom.countdown": {
+      "category": "master",
+      "sounds": [
+        "custom/countdown"
+      ]
+    },
+    "custom.unlock": {
+      "category": "master",
+      "sounds": [
+        "custom/unlock"
+      ]
+    },
+    "custom.win": {
+      "category": "master",
+      "sounds": [
+        "custom/win"
+      ]
+    },
+    "custom.slot_progressive.1": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/1"
+      ]
+    },
+    "custom.slot_progressive.2": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/2"
+      ]
+    },
+    "custom.slot_progressive.3": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/3"
+      ]
+    },
+    "custom.slot_progressive.4": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/4"
+      ]
+    },
+    "custom.slot_progressive.5": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/5"
+      ]
+    },
+    "custom.slot_progressive.6": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/6"
+      ]
+    },
+    "custom.slot_progressive.7": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/7"
+      ]
+    },
+    "custom.slot_progressive.8": {
+      "category": "master",
+      "sounds": [
+        "custom/slot_progressive/8"
+      ]
     }
   }
