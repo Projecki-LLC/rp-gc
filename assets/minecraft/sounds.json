@@ -42,7 +42,7 @@
       ]
     },
     "custom.equip": {
-      "category": "master",
+      "category": "player",
       "sounds": [
         "custom/equip"
       ]
