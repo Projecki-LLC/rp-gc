@@ -41,6 +41,12 @@
         "custom/win"
       ]
     },
+    "custom.equip": {
+      "category": "master",
+      "sounds": [
+        "custom/equip"
+      ]
+    },
     "custom.slot_progressive.1": {
       "category": "master",
       "sounds": [
