@@ -123,6 +123,7 @@
         {"type": "bitmap","file": "custom/ui/tags/legendary.png","ascent": 7,"height": 7,"chars": ["\uE217"]},
         {"type": "bitmap","file": "custom/ui/beds.png","ascent": 7,"height": 7,"chars": ["\uE218\uE219\uE220","\uE221\uE222\uE223","\uE224\uE225\uE226"]},
         {"type": "bitmap","file": "custom/ui/cosmetics_crate.png","ascent": 117,"height": 256,"chars": ["\uE227"]},
-        {"type": "bitmap","file": "custom/ui/icons/bits.png","ascent": 7,"height": 7,"chars": ["\uE228"]}
+        {"type": "bitmap","file": "custom/ui/icons/bits.png","ascent": 7,"height": 7,"chars": ["\uE228"]},
+        {"type": "bitmap","file": "custom/ui/icons/crate-key.png","ascent": 7,"height": 7,"chars": ["\uE229"]}
     ]
 }
