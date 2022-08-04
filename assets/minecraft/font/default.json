@@ -122,8 +122,13 @@
         {"type": "bitmap","file": "custom/ui/tags/epic.png","ascent": 7,"height": 7,"chars": ["\uE216"]},
         {"type": "bitmap","file": "custom/ui/tags/legendary.png","ascent": 7,"height": 7,"chars": ["\uE217"]},
         {"type": "bitmap","file": "custom/ui/beds.png","ascent": 7,"height": 7,"chars": ["\uE218\uE219\uE220","\uE221\uE222\uE223","\uE224\uE225\uE226"]},
-        {"type": "bitmap","file": "custom/ui/cosmetics_crate.png","ascent": 117,"height": 256,"chars": ["\uE227"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_blue.png","ascent": 117,"height": 256,"chars": ["\uE227"]},
         {"type": "bitmap","file": "custom/ui/icons/bits.png","ascent": 7,"height": 7,"chars": ["\uE228"]},
-        {"type": "bitmap","file": "custom/ui/icons/crate-key.png","ascent": 7,"height": 7,"chars": ["\uE229"]}
+        {"type": "bitmap","file": "custom/ui/icons/crate-key.png","ascent": 7,"height": 7,"chars": ["\uE229"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_green.png","ascent": 117,"height": 256,"chars": ["\uE230"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_orange.png","ascent": 117,"height": 256,"chars": ["\uE231"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_pink.png","ascent": 117,"height": 256,"chars": ["\uE232"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_red.png","ascent": 117,"height": 256,"chars": ["\uE233"]},
+        {"type": "bitmap","file": "custom/ui/crate_gui_yellow.png","ascent": 117,"height": 256,"chars": ["\uE234"]}
     ]
 }
