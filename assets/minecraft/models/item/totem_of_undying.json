@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
-      {"predicate":{"custom_model_data":-1},"layer0": "minecraft:item/paper"},
+      {"predicate":{"custom_model_data":0},"layer0": "minecraft:item/paper"},
       {"predicate":{"custom_model_data":83},"model":"custom/misc_blocks/grid_bits/bits0"},
       {"predicate":{"custom_model_data":84},"model":"custom/misc_blocks/grid_bits/bits1"},
       {"predicate":{"custom_model_data":85},"model":"custom/misc_blocks/grid_bits/bits2"},
