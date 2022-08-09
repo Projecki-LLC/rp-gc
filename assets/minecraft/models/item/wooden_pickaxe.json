@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_pickaxe"
+  },
+	"overrides": [
+		
+{ "predicate": { "custom_model_data": 1}, "model": "custom_pickaxes:pickaxes/vortex_pickaxe" },
+{ "predicate": { "custom_model_data": 2}, "model": "custom_pickaxes:pickaxes/cosmic_horror_pickaxe" },
+{ "predicate": { "custom_model_data": 3}, "model": "custom_pickaxes:pickaxes/otw_pickaxe" },
+{ "predicate": { "custom_model_data": 4}, "model": "custom_pickaxes:pickaxes/solar_pickaxe" },
+{ "predicate": { "custom_model_data": 5}, "model": "custom_pickaxes:pickaxes/martian_pickaxe" }
+
+]
+}
