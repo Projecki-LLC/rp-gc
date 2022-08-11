@@ -78,5 +78,30 @@
     "sounds": [
       "custom/slot_progressive/8"
     ]
+  },
+  "custom.breakout.escape_siren": {
+    "sounds": [
+      "custom/breakout/escape_siren"
+    ]
+  },
+  "custom.breakout.guard_siren": {
+    "sounds": [
+      "custom/breakout/guard_siren"
+    ]
+  },
+  "custom.breakout.jail_close": {
+    "sounds": [
+      "custom/breakout/jail_close"
+    ]
+  },
+  "custom.breakout.van_door-close": {
+    "sounds": [
+      "custom/breakout/van_door-close"
+    ]
+  },
+  "custom.breakout.van_start": {
+    "sounds": [
+      "custom/breakout/van_start"
+    ]
   }
 }
