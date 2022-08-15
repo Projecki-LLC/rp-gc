@@ -178,6 +178,7 @@
           {"predicate":{"custom_model_data":172},"model":"custom/misc_items/keycard_pink"},
           {"predicate":{"custom_model_data":173},"model":"custom/misc_items/keycard_red"},
           {"predicate":{"custom_model_data":174},"model":"custom/misc_items/keycard_yellow"},
+          {"predicate":{"custom_model_data":175},"model":"custom/minigames/breakout/door"},
           {"predicate":{"custom_model_data":1001},"model":"custom/ui/arcade/numbers/1"},
           {"predicate":{"custom_model_data":1002},"model":"custom/ui/arcade/numbers/2"},
           {"predicate":{"custom_model_data":1003},"model":"custom/ui/arcade/numbers/3"},
