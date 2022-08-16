@@ -48,7 +48,8 @@
 			"translation": [0, 4, 0]
 		},
 		"head": {
-			"translation": [0, 11, 0]
+			"translation": [0, 11, 0],
+			"scale": [1.05, 1.05, 1.05]
 		}
 	}
 }
