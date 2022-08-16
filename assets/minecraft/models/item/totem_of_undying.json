@@ -125,6 +125,19 @@
       {"predicate":{"custom_model_data":10103},"model":"custom/cosmetics/hats/unicorn_head"},
       {"predicate":{"custom_model_data":10104},"model":"custom/cosmetics/hats/ushanka"},
       {"predicate":{"custom_model_data":10105},"model":"custom/cosmetics/hats/viking_helmet"},
-      {"predicate":{"custom_model_data":10106},"model":"custom/cosmetics/hats/tool_belt"}
+      {"predicate":{"custom_model_data":10106},"model":"custom/cosmetics/hats/tool_belt"},
+      {"predicate":{"custom_model_data":10107},"model":"custom/cosmetics/gac_exclusives/gac_baseball_bat"},
+      {"predicate":{"custom_model_data":10108},"model":"custom/cosmetics/gac_exclusives/gac_bullet_chain"},
+      {"predicate":{"custom_model_data":10109},"model":"custom/cosmetics/gac_exclusives/gac_eyepatch"},
+      {"predicate":{"custom_model_data":10110},"model":"custom/cosmetics/gac_exclusives/gac_gold_chain"},
+      {"predicate":{"custom_model_data":10111},"model":"custom/cosmetics/gac_exclusives/gac_gold_crown"},
+      {"predicate":{"custom_model_data":10112},"model":"custom/cosmetics/gac_exclusives/gac_graduation_cap"},
+      {"predicate":{"custom_model_data":10113},"model":"custom/cosmetics/gac_exclusives/gac_halo"},
+      {"predicate":{"custom_model_data":10114},"model":"custom/cosmetics/gac_exclusives/gac_headset"},
+      {"predicate":{"custom_model_data":10115},"model":"custom/cosmetics/gac_exclusives/gac_katana"},
+      {"predicate":{"custom_model_data":10116},"model":"custom/cosmetics/gac_exclusives/gac_mlg_glasses"},
+      {"predicate":{"custom_model_data":10117},"model":"custom/cosmetics/gac_exclusives/gac_silver_chain"},
+      {"predicate":{"custom_model_data":10118},"model":"custom/cosmetics/gac_exclusives/gac_silver_crown"},
+      {"predicate":{"custom_model_data":10119},"model":"custom/cosmetics/gac_exclusives/gac_vr_glasses"}
     ]
   }
