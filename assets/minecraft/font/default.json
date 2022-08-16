@@ -129,6 +129,8 @@
         {"type": "bitmap","file": "custom/ui/crate_gui_orange.png","ascent": 117,"height": 256,"chars": ["\uE231"]},
         {"type": "bitmap","file": "custom/ui/crate_gui_pink.png","ascent": 117,"height": 256,"chars": ["\uE232"]},
         {"type": "bitmap","file": "custom/ui/crate_gui_red.png","ascent": 117,"height": 256,"chars": ["\uE233"]},
-        {"type": "bitmap","file": "custom/ui/crate_gui_yellow.png","ascent": 117,"height": 256,"chars": ["\uE234"]}
+        {"type": "bitmap","file": "custom/ui/crate_gui_yellow.png","ascent": 117,"height": 256,"chars": ["\uE234"]},
+        {"type": "bitmap","file": "custom/ui/breakout/combination_panel.png","ascent": 53,"height": 256,"chars": ["\uE235"]},
+        {"type": "bitmap","file": "custom/ui/breakout/disaster_icons.png","ascent": 22,"height": 22,"chars": ["\uE236\uE327\uE328\uE329\uE330\uE331","\uE332\uE333\uE334\uE335\uE336\uE337","\uE338\uE339\uE340\uE341\uE342\uE343","\uE344\uE345\uE346\uE347\uE348\uE349","\uE350\uE351\uE352\uE353\uE354\uE355","\uE356\uE357\uE358\uE359\uE360\uE361"]}
     ]
 }
