@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/silver_crown",
-		"particle": "block/silver_crown"
+		"0": "custom/cosmetics/gac_exclusives/silver_crown",
+		"particle": "custom/cosmetics/gac_exclusives/silver_crown"
 	},
 	"elements": [
 		{

@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/graduation_hat",
-		"particle": "block/graduation_hat"
+		"0": "custom/cosmetics/gac_exclusives/graduation_cap",
+		"particle": "custom/cosmetics/gac_exclusives/graduation_cap"
 	},
 	"elements": [
 		{

@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/eye_patch",
-		"particle": "block/eye_patch"
+		"0": "custom/cosmetics/gac_exclusives/eyepatch",
+		"particle": "custom/cosmetics/gac_exclusives/eyepatch"
 	},
 	"elements": [
 		{

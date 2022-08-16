@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/vr_glasses",
-		"particle": "block/vr_glasses"
+		"0": "custom/cosmetics/gac_exclusives/vr_glasses",
+		"particle": "custom/cosmetics/gac_exclusives/vr_glasses"
 	},
 	"elements": [
 		{

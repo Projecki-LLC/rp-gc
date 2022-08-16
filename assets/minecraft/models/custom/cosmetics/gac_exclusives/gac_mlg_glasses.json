@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/mlg_glasses",
-		"particle": "block/mlg_glasses"
+		"0": "custom/cosmetics/gac_exclusives/mlg_glasses",
+		"particle": "custom/cosmetics/gac_exclusives/mlg_glasses"
 	},
 	"elements": [
 		{

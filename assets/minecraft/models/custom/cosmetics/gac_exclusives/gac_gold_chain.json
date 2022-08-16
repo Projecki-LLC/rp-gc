@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/gold_chain",
-		"particle": "block/gold_chain"
+		"0": "custom/cosmetics/gac_exclusives/gold_chain",
+		"particle": "custom/cosmetics/gac_exclusives/gold_chain"
 	},
 	"elements": [
 		{
