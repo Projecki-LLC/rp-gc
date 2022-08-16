@@ -5,11 +5,11 @@
   },
 	"overrides": [
 		
-{ "predicate": { "custom_model_data": 1}, "model": "custom_pickaxes:pickaxes/vortex_pickaxe" },
-{ "predicate": { "custom_model_data": 2}, "model": "custom_pickaxes:pickaxes/cosmic_horror_pickaxe" },
-{ "predicate": { "custom_model_data": 3}, "model": "custom_pickaxes:pickaxes/otw_pickaxe" },
-{ "predicate": { "custom_model_data": 4}, "model": "custom_pickaxes:pickaxes/solar_pickaxe" },
-{ "predicate": { "custom_model_data": 5}, "model": "custom_pickaxes:pickaxes/martian_pickaxe" }
+    { "predicate": { "custom_model_data": 179}, "model": "custom_pickaxes:pickaxes/vortex_pickaxe" },
+    { "predicate": { "custom_model_data": 180}, "model": "custom_pickaxes:pickaxes/cosmic_horror_pickaxe" },
+    { "predicate": { "custom_model_data": 181}, "model": "custom_pickaxes:pickaxes/otw_pickaxe" },
+    { "predicate": { "custom_model_data": 182}, "model": "custom_pickaxes:pickaxes/solar_pickaxe" },
+    { "predicate": { "custom_model_data": 183}, "model": "custom_pickaxes:pickaxes/martian_pickaxe" }
 
 ]
 }
